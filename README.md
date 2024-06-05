@@ -6,5 +6,5 @@ The objective of this project is to enhance the efficiency of the supply chain i
 We aim to achieve this by developing neural network models to predict order priorities accurately, enabling us to optimize inventory management and ensure timely delivery of products for the retail business.
 
 ## Result - Live Demo
-[![Watch the video]](https://youtu.be/tsOBjlMjbXQ)
+[![Watch the video](https://img.youtube.com/vi/tsOBjlMjbXQ/default.jpg)](https://youtu.be/tsOBjlMjbXQ)
 
